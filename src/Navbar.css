@@ -1,0 +1,30 @@
+.navbar {
+    display: flex;
+    flex-direction: row;
+    background-color: black;
+    color: white;
+    font-family:  Star Wars;
+    justify-content: space-between;
+}
+
+.nb-into {
+    display: flex;
+    flex-direction: row;
+    padding:10px 40px;
+}
+
+.nb-into > a > h3 {
+    color: white;
+    margin: 10px 30px;
+}
+
+.nb-desc {
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+}
+
+.nb-desc > a > h3 {
+    color: white;
+    margin: 10px 30px;
+}

@@ -1,0 +1,28 @@
+.contact {
+    margin: 50px;
+    padding: 50px;
+}
+
+.fcon {
+    display: flex;
+    flex-direction: column;
+}
+
+.fcon > input , .fcon > textarea{
+    margin:10px;
+    padding: 20px;
+    border: none;
+    border-radius: 10px;
+    font-size:14pt;
+}
+
+.btnc {
+    max-width: 120px;
+    background-color: green;
+    padding: 10px 30px;
+    opacity: 0.8;
+    font-size: 14pt;
+    margin: 10px;
+    border: none;
+    border-radius: 10px;
+}

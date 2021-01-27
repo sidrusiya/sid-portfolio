@@ -1,0 +1,30 @@
+.about {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-weight: 300;
+    padding: 50px;
+    margin: 50px;
+}
+
+.box {
+    display: flex;
+    flex-direction: row;
+}
+
+.btn {
+    display: flex;
+    padding: 10px;
+    margin: 10px;
+    justify-content:baseline;
+}
+
+.ab-im > img {
+    max-width: 600px;
+    height: 400px;
+}
+
+.imid >a > img {
+    padding:10px;
+    margin:10px;
+}

@@ -1,0 +1,16 @@
+.project {
+    margin:0px 50px;
+    padding:0px 50px;
+}
+
+.pr > div{
+    background-color: rgb(78, 74, 74);
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.pr >div >a > h3 {
+    color: white;
+}
