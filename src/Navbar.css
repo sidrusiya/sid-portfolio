@@ -9,22 +9,32 @@
 
 .nb-into {
     display: flex;
-    flex-direction: row;
-    padding:10px 40px;
+    flex-direction: column;
+    padding:10px 30px;
 }
 
 .nb-into > a > h3 {
     color: white;
-    margin: 10px 30px;
+    margin: 10px 00px;
 }
 
 .nb-desc {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     padding: 10px;
 }
 
 .nb-desc > a > h3 {
     color: white;
     margin: 10px 30px;
+}
+
+@media only screen and (min-width: 768px) {
+    .nb-into, .nb-desc {
+        flex-direction: row;
+    }
+
+    .nb-into > a > h3 {
+        margin: 10px 30px; 
+    }
 }

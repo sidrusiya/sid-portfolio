@@ -1,6 +1,6 @@
 .contact {
-    margin: 50px;
-    padding: 50px;
+    margin: 4%;
+    padding: 4%;
 }
 
 .fcon {
@@ -10,7 +10,7 @@
 
 .fcon > input , .fcon > textarea{
     margin:10px;
-    padding: 20px;
+    padding: 15px;
     border: none;
     border-radius: 10px;
     font-size:14pt;

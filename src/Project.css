@@ -1,16 +1,23 @@
 .project {
-    margin:0px 50px;
-    padding:0px 50px;
+    margin:0px 4%;
+    padding:0px 4%;
 }
 
 .pr > div{
     background-color: rgb(78, 74, 74);
     color: white;
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     justify-content: space-around;
+}
+
+@media only screen and (min-width: 768px) {
+    .pr > div {
+        flex-direction: row;
+    }
 }
 
 .pr >div >a > h3 {
     color: white;
+    margin-left: 10px;
 }

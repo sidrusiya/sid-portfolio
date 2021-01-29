@@ -7,14 +7,14 @@ function About() {
         <div className="about" id="about">
             <div className="ab-init">
                 <h1>Hey 👏</h1>
-                <h1>My Name is Siddhartha Rusiya and </h1>
+                <h1>My Name is Siddhartha Rusiya. </h1>
                 <h1>I'm a Student of NIT.</h1>
                 <div className="box">
                 <div className="btn">
                 <Button variant="contained" color="primary" href="#contact">Hire Me</Button>
                 </div>
                 <div className="btn">
-                <Button variant="outlined" color="primary" target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1XxKUKaavC7y3t6DS6-DdnSpwXJtPXhrx/view?usp=sharing">View CV</Button>
+                <Button variant="outlined" color="primary" target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1DsSfKvZeKmBc1mpGvFRpobgK-yXyj-fA/view?usp=sharing">View CV</Button>
                 </div>
                 </div>
                 <div className="imid">
