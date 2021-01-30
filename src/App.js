@@ -3,7 +3,8 @@ import Navbar from './Navbar';
 import About from './About';
 import Project from './Project';
 import Footer from './Footer';
-import Contact from './Contact';
+import ContactForm from './ContactForm';
+import CodingProfile from './CodingProfile'
 
 function App() {
   return (
@@ -11,7 +12,8 @@ function App() {
         <Navbar />
         <About />
         <Project />
-        <Contact />
+        <CodingProfile />
+        <ContactForm />
         <Footer />
     </div>
   );

@@ -19,7 +19,7 @@ function About() {
                 </div>
                 <div className="imid">
                 <a href="https://www.linkedin.com/in/siddhartha-rusiya-79478a185/" target="_blank" rel="noreferrer">
-                <img width="50" alt="github" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png"/>
+                <img width="50" alt="linkedin" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png"/>
                 </a>
                 <a href="https://github.com/sidrusiya" target="_blank" rel="noreferrer">
                 <img width="50" alt="github" src="https://www.freepnglogos.com/uploads/512x512-logo-png/512x512-logo-github-icon-35.png"/>

@@ -9,6 +9,7 @@ function Contact() {
             <form action="mailto:siddhartharusiya84@gmail.com" method="post" encType="text/plain" className="fcon">
                 <input type="text" placeholder="Full Name*" />
                 <input type="text" placeholder="Email*" />
+                <input type="text" placeholder="Subject*" />
                 <textarea rows="10" placeholder="Message*"></textarea>
                 <button type="submit" className="btnc">Submit</button>
             </form>

@@ -1,0 +1,14 @@
+.codprof {
+    margin: 4%;
+    margin-bottom: 0%;
+    padding: 4%;
+    padding-bottom: 0%;
+}
+
+.lin {
+    display: flex;
+    background-color: blanchedalmond;
+    justify-content: space-around;
+    margin: 15px;
+    padding: 15px;
+}
