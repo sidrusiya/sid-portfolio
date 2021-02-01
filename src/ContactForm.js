@@ -43,7 +43,7 @@ handleChange = (param, e) => {
   }
 render() {
     return (
-      <div className="cf">
+      <div className="cf" id="contact">
           <h1 className="p-heading1">Contact</h1>
           <Form onSubmit={this.handleSubmit.bind(this)} className="fcon">
             <div id="div1">
